@@ -18,16 +18,11 @@
          id="mask-powermask-path-effect4_box"
          style="fill:#ffffff;fill-opacity:1"
          d="M -0.47082043,-0.47082043 H 265.05416 V 265.05416 H -0.47082043 Z" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.229;paint-order:markers stroke fill"
-         x="79.551353"
-         y="195.26254"
-         id="text3"><tspan
-           id="tspan3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:13.229"
-           x="79.551353"
-           y="195.26254">6</tspan></text>
+      <path
+         d="m 134.05556,197.20282 q -20.28474,0 -32.63197,-14.99306 -12.170842,-15.16946 -12.170842,-44.45003 0,-34.39586 15.345842,-52.034762 15.52224,-17.81529 47.44865,-17.81529 3.88055,0 7.76111,0.35278 4.05695,0.176387 7.05556,0.881943 v 21.34307 q -7.23195,-1.76389 -15.87501,-1.76389 -17.81529,0 -26.81113,9.877785 -8.81945,9.701394 -10.40695,29.456964 h 1.05833 q 4.23334,-7.23195 10.75973,-10.93612 6.5264,-3.70417 16.0514,-3.70417 16.75696,0 25.40002,10.75973 8.64306,10.75973 8.64306,29.10419 0,20.28473 -10.93612,32.1028 -10.93611,11.81806 -30.69168,11.81806 z m -0.52917,-22.4014 q 16.40418,0 16.40418,-21.16668 0,-9.34862 -3.88056,-14.4639 -3.88056,-5.29167 -11.99445,-5.29167 -7.40834,0 -12.8764,5.46806 -5.46806,5.46806 -5.46806,15.34584 0,8.99584 4.7625,14.64029 4.9389,5.46806 13.05279,5.46806 z"
+         id="path4"
+         style="font-weight:bold;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';fill:#000000;fill-opacity:1;fill:#000000;stroke-width:13.229;paint-order:markers stroke fill"
+         aria-label="6" />
     </mask>
   </defs>
   <path

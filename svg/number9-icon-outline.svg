@@ -18,14 +18,9 @@
      cx="132.29167"
      cy="132.29167"
      r="119.84609" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.229;paint-order:markers stroke fill"
-     x="79.551353"
-     y="195.26254"
-     id="text3"><tspan
-       id="tspan3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:13.229"
-       x="79.551353"
-       y="195.26254">9</tspan></text>
+  <path
+     d="m 112.5361,197.02643 q -3.88056,0 -7.93751,-0.35278 -3.88056,-0.17638 -6.879169,-0.88194 v -21.34307 q 7.231949,1.76389 15.875009,1.76389 19.2264,0 27.51669,-10.23056 8.46667,-10.40695 9.87778,-29.10419 h -1.05833 q -8.1139,14.28751 -26.63474,14.28751 -16.58057,0 -25.40002,-10.58334 -8.643061,-10.75973 -8.643061,-28.9278 0,-20.461122 10.936121,-32.279185 10.93612,-11.994453 30.69168,-11.994453 20.46113,0 32.63197,14.993066 12.17084,14.993066 12.17084,43.391692 0,35.45419 -15.52223,53.44587 -15.52223,17.81529 -47.62503,17.81529 z m 18.34445,-66.32226 q 7.40834,0 12.8764,-5.29167 5.46806,-5.29167 5.46806,-14.64029 0,-9.52501 -4.7625,-15.169457 -4.7625,-5.820837 -13.05279,-5.820837 -16.40418,0 -16.40418,21.519464 0,9.17222 3.88056,14.2875 3.88056,5.11529 11.99445,5.11529 z"
+     id="text3"
+     style="font-weight:bold;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';fill:#000000;fill-opacity:1;stroke-width:13.229;paint-order:markers stroke fill"
+     aria-label="9" />
 </svg>

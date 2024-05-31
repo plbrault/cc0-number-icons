@@ -18,14 +18,9 @@
      cx="132.29167"
      cy="132.29167"
      r="119.84609" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.229;paint-order:markers stroke fill"
-     x="79.551353"
-     y="195.26254"
-     id="text3"><tspan
-       id="tspan3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:13.229"
-       x="79.551353"
-       y="195.26254">2</tspan></text>
+  <path
+     d="M 89.605527,195.26254 V 176.7417 l 30.691683,-30.69169 q 7.40834,-7.40834 13.58196,-13.93473 6.17361,-6.5264 9.87778,-12.8764 3.70417,-6.52639 3.70417,-13.58195 0,-7.58473 -4.40972,-11.641678 -4.40973,-4.233336 -11.64168,-4.233336 -7.05556,0 -13.58195,3.175002 -6.5264,3.175002 -14.11112,9.701392 L 89.252749,85.54858 q 6.879171,-5.997226 13.052791,-9.877784 6.35,-4.056948 13.58195,-5.997227 7.40834,-2.116668 17.46251,-2.116668 12.8764,0 21.87224,4.586114 9.17223,4.586115 13.93473,12.52362 4.93889,7.761116 4.93889,17.815285 0,11.2889 -4.93889,20.63752 -4.93889,9.17223 -13.05279,17.46251 -7.9375,8.29028 -17.46251,16.75696 l -16.22779,14.28751 v 1.76389 h 55.03337 v 21.87223 z"
+     id="text3"
+     style="font-weight:bold;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';fill:#000000;fill-opacity:1;stroke-width:13.229;paint-order:markers stroke fill"
+     aria-label="2" />
 </svg>

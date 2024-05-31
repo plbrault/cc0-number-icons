@@ -18,16 +18,11 @@
          id="mask-powermask-path-effect4_box"
          style="fill:#ffffff;fill-opacity:1"
          d="M -0.47082043,-0.47082043 H 265.05416 V 265.05416 H -0.47082043 Z" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.229;paint-order:markers stroke fill"
-         x="79.551353"
-         y="195.26254"
-         id="text3"><tspan
-           id="tspan3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:13.229"
-           x="79.551353"
-           y="195.26254">3</tspan></text>
+      <path
+         d="m 127.70555,197.02643 q -8.64306,0 -17.99168,-1.76389 -9.17222,-1.76389 -17.638896,-5.11528 v -22.57779 q 7.761115,3.70417 16.933346,5.82084 9.17223,2.11666 16.75695,2.11666 22.04863,0 22.04863,-18.16806 0,-9.17223 -6.35,-12.8764 -6.35001,-3.70417 -21.51946,-3.70417 h -9.52501 v -20.46113 h 9.7014 q 13.58195,0 19.57918,-4.40972 6.17361,-4.40973 6.17361,-12.52362 0,-5.820837 -3.35139,-9.877786 -3.35139,-4.056946 -11.99445,-4.056946 -5.46806,0 -12.17084,2.116669 -6.70279,2.116667 -15.16946,6.702782 L 91.722194,79.904132 q 18.344456,-12.347231 40.216696,-12.347231 10.05417,0 18.69723,3.175003 8.81945,2.998613 14.11112,9.701395 5.46806,6.526392 5.46806,17.286123 0,10.936118 -6.35,19.579178 -6.17362,8.64306 -18.16807,11.64168 v 0.52916 q 14.81668,2.11667 21.51946,9.52501 6.70278,7.40834 6.70278,19.57918 0,13.40556 -6.35,22.04863 -6.17362,8.46667 -16.58057,12.52361 -10.40695,3.88056 -23.28335,3.88056 z"
+         id="path4"
+         style="font-weight:bold;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';fill:#000000;fill-opacity:1;fill:#000000;stroke-width:13.229;paint-order:markers stroke fill"
+         aria-label="3" />
     </mask>
   </defs>
   <path

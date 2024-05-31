@@ -18,14 +18,9 @@
      cx="132.29167"
      cy="132.29167"
      r="119.84609" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.229;paint-order:markers stroke fill"
-     x="79.551353"
-     y="195.26254"
-     id="text3"><tspan
-       id="tspan3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:13.229"
-       x="79.551353"
-       y="195.26254">4</tspan></text>
+  <path
+     d="M 137.75973,195.26254 V 169.15697 H 86.606914 V 150.63612 L 138.28889,69.320791 h 23.81252 v 79.198669 h 16.22779 v 20.63751 h -16.22779 v 26.10557 z m -27.69308,-46.74308 h 27.69308 v -21.34307 q 0,-1.94028 0.17638,-5.99723 0.17639,-4.23334 0.35278,-8.64306 0.17639,-4.58612 0.35278,-8.1139 0.17639,-3.52778 0.35278,-4.23333 h -0.70556 q -1.5875,3.52778 -3.52778,6.87917 -1.94028,3.35139 -4.05694,6.87917 z"
+     id="text3"
+     style="font-weight:bold;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';fill:#000000;fill-opacity:1;stroke-width:13.229;paint-order:markers stroke fill"
+     aria-label="4" />
 </svg>

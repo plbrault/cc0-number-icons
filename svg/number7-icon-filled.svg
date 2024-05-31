@@ -18,16 +18,11 @@
          id="mask-powermask-path-effect4_box"
          style="fill:#ffffff;fill-opacity:1"
          d="M -0.47082043,-0.47082043 H 265.05416 V 265.05416 H -0.47082043 Z" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.229;paint-order:markers stroke fill"
-         x="79.551353"
-         y="195.26254"
-         id="text3"><tspan
-           id="tspan3"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:13.229"
-           x="79.551353"
-           y="195.26254">7</tspan></text>
+      <path
+         d="M 101.07081,195.26254 148.34307,91.193027 H 88.370804 V 69.497181 H 176.56531 V 86.254135 L 128.94028,195.26254 Z"
+         id="path4"
+         style="font-weight:bold;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';fill:#000000;fill-opacity:1;fill:#000000;stroke-width:13.229;paint-order:markers stroke fill"
+         aria-label="7" />
     </mask>
   </defs>
   <path

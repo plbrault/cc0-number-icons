@@ -18,14 +18,9 @@
      cx="132.29167"
      cy="132.29167"
      r="119.84609" />
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:13.229;paint-order:markers stroke fill"
-     x="79.551353"
-     y="195.26254"
-     id="text3"><tspan
-       id="tspan3"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:176.389px;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke-width:13.229"
-       x="79.551353"
-       y="195.26254">0</tspan></text>
+  <path
+     d="m 132.82083,197.02643 q -22.93057,0 -33.690297,-16.75695 -10.759729,-16.93335 -10.759729,-48.68337 0,-31.57363 10.58334,-47.80142 10.583336,-16.227789 32.984746,-16.227789 22.93057,0 33.6903,16.933345 10.93612,16.756954 10.93612,48.683364 0,18.69724 -4.23334,33.16114 -4.05695,14.46389 -13.58195,22.57779 -9.52501,8.11389 -25.92919,8.11389 z m -19.75557,-63.85282 q 0,6.70278 0.35278,12.17084 l 30.69169,-50.800031 q -4.40972,-5.644448 -11.81806,-5.644448 -10.75973,0 -14.99307,11.465289 -4.23334,11.28889 -4.23334,32.80835 z m 19.22641,43.21531 q 10.93612,0 14.99306,-10.75973 4.05695,-10.75973 4.05695,-32.1028 0,-4.23334 -0.17639,-7.93751 -0.17639,-3.88055 -0.35278,-7.40833 l -31.57363,51.3292 q 4.58611,6.87917 13.05279,6.87917 z"
+     id="text3"
+     style="font-weight:bold;font-size:176.389px;line-height:0.8;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Bold';fill:#000000;fill-opacity:1;stroke-width:13.229;paint-order:markers stroke fill"
+     aria-label="0" />
 </svg>

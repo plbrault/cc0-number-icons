@@ -4,7 +4,7 @@ This repository contains simple icons of numbers inside circles, in outline and 
 
 ![](readme-example.png)
 
-I created these icons after looking for equivalents online, and only finding icons which licenses required attribution. I am usually happy to give attribution when using an image, but was less willing to do so for something so trivial as a number in a circle. I am therefore providing these icons under the CC0 license, effectively making them public domain.
+I created these icons after looking for equivalents online, and only finding icons which licenses required attribution. I am usually happy to give attribution when using an image, but was less willing to do so for something as trivial as a number inside a circle. I am therefore providing these icons under the CC0 license, effectively making them public domain.
 
 The images are provided both in SVG versions and in PNG versions. The SVG version allows to change the color of the icon using only a text editor, all you need to do is search for the value "#000000" and replace it with your desired color code.
 

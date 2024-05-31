@@ -10,4 +10,4 @@ The images are provided both in SVG versions and in PNG versions. The SVG versio
 
 ## License
 
-All the image files present in this repository are relased under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license. In other words, you are allowed to distribute, remix, adapt, and build upon them in any medium or format, for any purpose. Attribution is not required.
+All the image files present in this repository are relased under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license. In other words, you are allowed to distribute, remix, adapt, and build upon them in any medium or format, for any purpose, with no requirement for attribution.
